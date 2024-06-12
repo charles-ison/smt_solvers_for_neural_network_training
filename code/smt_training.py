@@ -47,6 +47,7 @@ def train_smt(model, all_data, labels):
         equations.append(equation)
 
     formula = And(equations)
+    print("formula.size(): ", formula.size())
     solution = get_model(formula)
     
     if solution:
