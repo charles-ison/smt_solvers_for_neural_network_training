@@ -1,4 +1,5 @@
-# theory_of_computation_final
+# smt_solvers_for_neural_network_training
+
 
 ## Runing SMT vs Backpropagation Comparison ##
 In order to run the comparison between the SMT trainer and the backpropagation trainer, please use either the code/run_training_comparison.ipynb Jupyter notebook or the code/run_training_comparison.py file (whichever you prefer)
